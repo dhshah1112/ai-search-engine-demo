@@ -15,11 +15,11 @@ I am currently exploring porting the indexing layer to **Go** to improve through
 
 ## How to Run
 
-### Hybrid Search (Python)
+### Hybrid Search (Python) 
 ```bash
 python pipeline.py
-
+```
 ### Concurrency Test (Go)
-
-
-go run concurrency_experiment.go```
+```bash
+go run concurrency_experiment.go
+```
